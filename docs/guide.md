@@ -1,19 +1,11 @@
-# User Guide
+# 蘑菇视频APP下载
 
-This guide will help you get started with My Different Software.
+蘑菇影视提供高清电影在线秒播,免费为您提供最新高清电影、电视剧,日本动漫,热门韩剧,在线观看、每天更新热门电视剧、综艺、动漫尽在蘑菇影视。
 
 ## Installation
 
-Follow these steps to install My Different Software:
-
-1. Step 1: Description of step 1.
-2. Step 2: Description of step 2.
-3. Step 3: Description of step 3.
+蘑菇影视提供高清电影在线秒播,免费为您提供最新高清电影、电视剧,日本动漫,热门韩剧,在线观看、每天更新热门电视剧、综艺、动漫尽在蘑菇影视。
 
 ## Usage
 
-Learn how to effectively use My Different Software:
-
-- **Feature A**: Description of feature A.
-- **Feature B**: Description of feature B.
-- **Feature C**: Description of feature C.
+蘑菇影视提供高清电影在线秒播,免费为您提供最新高清电影、电视剧,日本动漫,热门韩剧,在线观看、每天更新热门电视剧、综艺、动漫尽在蘑菇影视.
